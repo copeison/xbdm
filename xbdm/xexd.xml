@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<xex>
+  <gameregion system=""/>
+  
+  <format>
+    <compressed/>
+  </format>
+
+  <exportcontainer name="dm.def"/>
+
+  <sysdll/>
+  <sysdbg/>
+
+  <hvprivileges/>
+  
+  <mfgmode mode="aware"/>
+
+  <version major="2" minor="0" build="20440" qfe="0"/>
+
+  <boundpath path="\Device\Flash\xbdm.xex"/>
+
+  <mediatypes>
+    <flash/>
+  </mediatypes>
+
+  <baseaddr addr="0x91F00000"/>
+</xex>

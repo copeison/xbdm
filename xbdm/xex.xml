@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<xex>
+  <gameregion system=""/>
+
+  <format>
+    <compressed/>
+  </format>
+  
+  <exportcontainer name="xbdm.def"/>
+  
+  <sysdll/>
+  <sysdbg/>
+
+  <mfgmode mode="aware"/>
+
+  <version major="2" minor="0" build="20440" qfe="0"/>
+
+  <mediatypes>
+    <harddisk/>
+    <flash/>
+    <usbmass/>
+    <network/>
+    <ram/>
+    <svod/>
+    <allpackages/>
+  </mediatypes>
+
+  <baseaddr addr="0x91000000"/>
+</xex>
